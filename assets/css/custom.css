@@ -1,0 +1,27 @@
+p.contact-caption{
+    font-size: 20px;
+    padding: 10px;
+    border-left: 2px solid white;
+    color: #f27420;
+    font-weight: bold;
+}
+
+div.footer-pera{
+    display: inline-block;
+}
+
+a.link-disabled{
+    pointer-events: none;
+    cursor: default;
+}
+
+img#ceo{
+    max-width: 100%;
+    vertical-align: middle;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    z-index: 999;
+    padding: 0;
+    margin: 0;
+}
