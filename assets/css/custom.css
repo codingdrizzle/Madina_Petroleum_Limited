@@ -34,3 +34,8 @@ img#ceo{
    background-repeat: center center; 
    height: 100%; 
 }
+
+li.list{
+    list-style-type: circle;
+    margin-left: 5%;
+}
