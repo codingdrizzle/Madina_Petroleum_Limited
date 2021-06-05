@@ -42,3 +42,6 @@ li.list{
     list-style-type: circle;
     margin-left: 5%;
 }
+p#bigger-lead::first-letter{
+    font-size: 30px;
+}
